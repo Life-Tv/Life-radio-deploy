@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Nouveauté Ramba Junior",
+    "category": "Life chez vous",
+    "uri": "https://www.icore.network/podcasts/audio_2%C3%9CA%C3%80JxTR_Ramba-Junior-Feat-Grand-P-Sabari-MIXDECALE.NET_.mp3",
+    "cover": "https://episodes.castos.com/62ab5f48032365-58848478/images/Life-chez-vous-podcast.png"
+  },
+  {
+    "id": 2,
+    "name": "Et si on en parlait  : Koulai Mangni Valentin",
+    "category": "Life matin",
+    "uri": "https://episodes.castos.com/62ab5f48032365-58848478/42251/3f844cae-a882-42bd-a5dc-e8b85ab7fd2f/PODCAST-LIFE-MATIN-ET-SI-ON-EN-PARLAIT-DU-20-07-2022.mp3",
+    "cover": "https://episodes.castos.com/62ab5f48032365-58848478/images/Life-Matin-podcast.png"
+  },
+  {
+    "id": 3,
+    "name": "Sans langue de boua : Le consommateur devrait avoir le juste prix de ce qu'il paye",
+    "category": "Life matin",
+    "uri": "https://episodes.castos.com/62ab5f48032365-58848478/42251/2c911267-a528-469f-82d7-c8ab117e1f43/PODCAST-SANS-LANGUE-DE-BOUA-DU-18-07-2022.mp3",
+    "cover": "https://episodes.castos.com/62ab5f48032365-58848478/images/1191975/d-put-.jpg"
+  }
+]
